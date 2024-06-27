@@ -33,3 +33,5 @@ HooBank is a cutting-edge UI/UX website created with React.js and Tailwind CSS, 
 👉 **Responsive**: Ensures seamless functionality and aesthetics on all devices.
 
 And much more, including code architecture and reusability.
+
+<h5>Big Credit Goes to JsMastery</h5>
